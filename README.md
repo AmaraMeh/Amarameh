@@ -8,5 +8,4 @@ Developer and student from Algeria 🇩🇿
 
 [Telegram](https://t.me/amaramehdi1) • [LinkedIn](#)
 
-
-![AmaraMeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmaraMeh&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmaraMeh&theme=radical&margin-w=5&no-frame=)
