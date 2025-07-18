@@ -2,12 +2,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarameh" alt="amarameh" /></a> </p>
 
 - 🔭 I’m currently working on [Building Arc](Arc.net)
-- 🌱 I’m currently learning **Building/Training LLM**
 - 👯 I’m looking to collaborate on [E-campus](Bejaia.tech)
-- 🤝 I’m looking for help with **Campus AI**
-- 👨‍💻 All of my projects are available at [amaramehdi.vercel.app](amaramehdi.vercel.app)
-- 📫 How to reach me **mehdi.amara@tech.univ-bejaia.dz**
-- ⚡ Fun fact **My crush is REACT**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
